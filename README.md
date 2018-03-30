@@ -10,6 +10,6 @@ The Website Code for <a href="https://github.com/Wonder-Toast/Pokebot">Pokebot</
 
 <!-- <break></break> -->
 
-<a href="https://discordbots.org/bot/330488924449275916">
+<!-- <a href="https://discordbots.org/bot/330488924449275916">
   <img src="https://discordbots.org/api/widget/330488924449275916.png" alt="Discord Bots" />
-</a>
+</a> -->
