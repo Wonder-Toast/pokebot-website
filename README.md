@@ -1,6 +1,6 @@
 # Pokebot-Website
 
-The Website Code for <a href="https://github.com/Wonder-Toast/Pokebot">Pokebot</a>
+Some code I guess for The Website of <a href="https://github.com/Wonder-Toast/Pokebot">Pokebot</a>
 
 ---
 
